@@ -18,6 +18,6 @@
         <pre><code>$ python run_experiments.py</code></pre>
     </li>
     <li>
-        <strong><code>Check results running RecsSimulatorEvaluator.ipynb</code></strong>
+        <strong>Check results running <code>RecsSimulatorEvaluator.ipynb</code></strong>
     </li>
 </ol>
